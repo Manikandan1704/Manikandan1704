@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manikandan</h1>
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/fb8d9bc7-9f8b-49be-90df-689630998c6b)
+
+
 <h3 align="center">I'm an aspiring web developer passionate about creating engaging and user-friendly web experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikandan1704&label=Profile%20views&color=0e75b6&style=flat" alt="manikandan1704" /> </p>
