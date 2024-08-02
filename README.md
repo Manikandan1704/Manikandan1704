@@ -27,8 +27,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 #### Languages
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) 
+
 #### Frontend
 ![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3) ![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular) ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/react_native-000?style=for-the-badge&logo=react) 
 
